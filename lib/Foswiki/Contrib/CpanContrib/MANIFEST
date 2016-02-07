@@ -53,7 +53,21 @@ lib/CPAN/lib/CPAN/Meta/Merge.pm 0444
 lib/CPAN/lib/CPAN/Meta/Prereqs.pm 0444
 lib/CPAN/lib/CPAN/Meta/Spec.pm 0444
 lib/CPAN/lib/CPAN/Meta/Validator.pm 0444
+lib/CPAN/lib/Capture/Tiny.pm 0444
 lib/CPAN/lib/Crypt/PasswdMD5.pm 0444
+lib/CPAN/lib/Email/Address.pm 0444
+lib/CPAN/lib/Email/Date/Format.pm 0444
+lib/CPAN/lib/Email/MIME.pm 0444
+lib/CPAN/lib/Email/MIME/ContentType.pm 0444
+lib/CPAN/lib/Email/MIME/Creator.pm 0444
+lib/CPAN/lib/Email/MIME/Encode.pm 0444
+lib/CPAN/lib/Email/MIME/Encodings.pm 0444
+lib/CPAN/lib/Email/MIME/Header.pm 0444
+lib/CPAN/lib/Email/MIME/Modifier.pm 0444
+lib/CPAN/lib/Email/MessageID.pm 0444
+lib/CPAN/lib/Email/Simple.pm 0444
+lib/CPAN/lib/Email/Simple/Creator.pm 0444
+lib/CPAN/lib/Email/Simple/Header.pm 0444
 lib/CPAN/lib/Encode/Locale.pm 0444
 lib/CPAN/lib/Error.pm 0444
 lib/CPAN/lib/Error/Simple.pm 0444
@@ -136,6 +150,9 @@ lib/CPAN/lib/Locale/Msgfmt.pm 0444
 lib/CPAN/lib/Locale/Msgfmt/Utils.pm 0444
 lib/CPAN/lib/Locale/Msgfmt/mo.pm 0444
 lib/CPAN/lib/Locale/Msgfmt/po.pm 0444
+lib/CPAN/lib/MIME/Type.pm 0444
+lib/CPAN/lib/MIME/Types.pm 0444
+lib/CPAN/lib/MIME/types.db 0444
 lib/CPAN/lib/Module/Build.pm 0444
 lib/CPAN/lib/Module/Build/Base.pm 0444
 lib/CPAN/lib/Module/Build/Compat.pm 0444
@@ -157,6 +174,7 @@ lib/CPAN/lib/Module/Build/Platform/darwin.pm 0444
 lib/CPAN/lib/Module/Build/Platform/os2.pm 0444
 lib/CPAN/lib/Module/Build/PodParser.pm 0444
 lib/CPAN/lib/Module/Install/Msgfmt.pm 0444
+lib/CPAN/lib/MojoX/MIME/Types.pm 0444
 lib/CPAN/lib/Net/HTTP.pm 0444
 lib/CPAN/lib/Net/HTTP/Methods.pm 0444
 lib/CPAN/lib/Net/HTTP/NB.pm 0444
@@ -221,3 +239,4 @@ lib/CPAN/lib/WWW/RobotRules/AnyDBM_File.pm 0444
 lib/CPAN/lib/ok.pm 0444
 lib/Foswiki/Contrib/CpanContrib.pm 0664
 lib/Foswiki/Contrib/CpanContrib/Config.spec 0664
+lib/Foswiki/Contrib/CpanContrib/DEPENDENCIES 0664
